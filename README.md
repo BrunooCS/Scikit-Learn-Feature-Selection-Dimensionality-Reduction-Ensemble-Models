@@ -26,7 +26,7 @@ Sensor signals were preprocessed using noise filters and sampled with sliding wi
 - **data/**: Folder containing the dataset used in CSV format.
 - **code/**: Folder containing the source code used in the project, including scripts for feature selection, dimensionality reduction, and model training.
 - **README.md**: This file, providing an overview of the project and its contents.
-
+- **Dataset**: https://archive.ics.uci.edu/dataset/240/human+activity+recognition+using+smartphones
 
 ## Summary of Project:
 
